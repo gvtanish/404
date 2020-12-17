@@ -2,5 +2,5 @@
 this is an 404 website design 
 
 # images 
-<img src="plane.jpg">
-<img src="grass.jpg">
+<img src="https://raw.githubusercontent.com/gvtanish/404/main/plane.png">
+<img src="https://raw.githubusercontent.com/gvtanish/404/main/grass.png">
